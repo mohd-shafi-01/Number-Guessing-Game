@@ -60,8 +60,6 @@ checkBtn.addEventListener("click", () => {
     
 });
 
-
-
 /*********************Refresh Button***********************/
 
 document.querySelector(".again-btn").addEventListener("click", () => {
@@ -75,14 +73,4 @@ document.querySelector(".again-btn").addEventListener("click", () => {
   document.querySelector(".guess-number").value = "";
   document.querySelector("body").style.backgroundColor = "#1E201E";
 });
-
-
-
-
-
-/*document.addEventListener("DOMContentLoaded", () => {
-  let refreshBtn = document.querySelector(".again-btn");
-  refreshBtn.addEventListener("click", () => {
-    location.reload();
-  });
 }); */
