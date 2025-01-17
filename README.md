@@ -20,9 +20,9 @@ A fun and interactive web-based game where players try to guess a randomly gener
 ---
 
 ## Technologies Used
-- **HTML**: For the game structure.
-- **CSS**: For styling and design.
-- **JavaScript**: For game logic and interactivity.
+- **HTML:** For the game structure.
+- **CSS:** For styling and design.
+- **JavaScript:** For game logic and interactivity.
 
 ---
 
