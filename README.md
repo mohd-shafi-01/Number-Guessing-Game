@@ -1,10 +1,10 @@
-# Number Guessing Game
+⁷# Number Guessing Game
 
 A fun and interactive web-based game where players try to guess a randomly generated number within a specific range. Built using **HTML**, **CSS**, and **JavaScript**, it features dynamic feedback and a user-friendly interface to keep players engaged.
 
 ---
 
-## Features
+## 
 - 🔢 Randomly generated numbers for every game.
 - 🎮 Real-time feedback on guesses (e.g., "Too high" or "Too low").
 - 🏆 Tracks and displays the player's score.
